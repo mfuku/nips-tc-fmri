@@ -71,7 +71,7 @@
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
     - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
     - macOS: [https://zoom.us/client/latest/Zoom.pkg](https://zoom.us/client/latest/Zoom.pkg)
-    
+
 - 画面の共有の設定だけ変更すると受講しやすくなります
     - Zoomを起動し、サインインをクリックします
 
@@ -100,7 +100,7 @@
 
 ## Lin4Neuro への Google chrome のインストール (所要時間5分)
 
-- Lin4NeuroにGoogle Chromeをインストールしたい方向けに、説明動画を準備しました。[こちら](https://vimeo.com/487737208){:target="_blank"}からご確認ください
+- Lin4NeuroにGoogle Chromeをインストールしたい方向けに、説明動画を準備しました。[こちら](https://vimeo.com/487737208)からご確認ください
 
 
 ----
@@ -210,7 +210,7 @@
 
 - 一括ダウンロード: 十分にネットワークが安定している方は、以下からダウンロードしてください。26GBありますのでダウンロードには2〜3時間かかります。ネットワークが細い方は、上の分割ダウンロードを選択してください
 
-    - [L4N-1804-abis-20201030.ovaのダウンロード](http://www.md.tsukuba.ac.jp/clinical-med/psy-neuroimaging/L4N/L4N-1804-abis-20201030.ova){:target="_blank"}
+    - [L4N-1804-abis-20201030.ovaのダウンロード](http://www.md.tsukuba.ac.jp/clinical-med/psy-neuroimaging/L4N/L4N-1804-abis-20201030.ova)
 
     - L4N-1804-abis-20201020.ovaのmd5値は、`877bcee4385adfb019397eaa8a8cef67` になります。ファイルサイズの検証にお使いください
 
@@ -222,7 +222,7 @@
 
 トレーニングコースでは、**<span style="color: red; ">VirtualBox 6.1.16以降</span>**の上で Lin4Neuro を動作させます。Lin4Neuro は、VirtualBox 6.1.16以降で最適化されているため、前のバージョンのVirtualBoxを使用の方は**必ず最新版(6.1.24)にアップグレードしてください。**特に**macOSは、6.1.16以前では仮想マシンが立ち上がらない不具合があります**のでご注意ください
 
-- [VirtualBoxのサイト](https://www.virtualbox.org/wiki/Downloads){:target="_blank"} から、ご自身のOSにあったVirtualBoxのインストーラーをダウンロードします
+- [VirtualBoxのサイト](https://www.virtualbox.org/wiki/Downloads) から、ご自身のOSにあったVirtualBoxのインストーラーをダウンロードします
 
 - ダウンロードしたインストーラーを用いてVirtualBox 6.1 をインストールします
 
@@ -230,7 +230,7 @@
 
     ![セットアップ後画像](img/vb01.png)
 
-    - macOSでインストールに失敗する場合は、[macOS High Sierra以降で VirtualBox のインストールに失敗する時の最終的な対処法](https://www.nemotos.net/?p=2619){:target="_blank"} を参照ください
+    - macOSでインストールに失敗する場合は、[macOS High Sierra以降で VirtualBox のインストールに失敗する時の最終的な対処法](https://www.nemotos.net/?p=2619) を参照ください
 
 ### C. Lin4Neuro仮想アプライアンスのインポート (所要時間約15分)
 
@@ -503,7 +503,7 @@
 
 - `yes` をタイプすると、FreeSurferの recon-all の autorecon1 が走りはじめます
 
-- 最後にターミナルに以下が表示されます。この数字を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSddP2Et28ds7yEF1LYzznzJleGqLhqAuNbpm_FpV0D8LVWs6A/viewform?usp=sf_link){:target="_blank"} のページからご報告ください
+- 最後にターミナルに以下が表示されます。この数字を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSddP2Et28ds7yEF1LYzznzJleGqLhqAuNbpm_FpV0D8LVWs6A/viewform?usp=sf_link)のページからご報告ください
 
     ```
     以下の値を報告してください
@@ -564,7 +564,7 @@
 
 - 準備がうまくいかない時のために、問い合わせフォームを準備しています。こちらからご質問ください。数日以内に担当者から返信させていただきます
 
-- [問い合わせフォーム](https://forms.gle/vMRau1iUaCkvgDQf6){:target="_blank"}
+- [問い合わせフォーム](https://forms.gle/vMRau1iUaCkvgDQf6)
 
 
 ## トラブルシューティング
