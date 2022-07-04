@@ -363,7 +363,7 @@
 ### 6. Lin4Neuro への Google chrome のインストール (所要時間5分)
 
 - Lin4NeuroにGoogle Chromeをインストールしたい方向けに、説明動画を準備しました。[こちら](https://vimeo.com/487737208)からご確認ください
-
+ 
 
 ---
 
@@ -371,4 +371,4 @@
 
 - 準備がうまくいかない時は、メールで案内した Slack の事前準備チャンネルで問い合わせ下さい。
 
-- [nipstcfmri2021.slack.com](https://nipstcfmri2021.slack.com/)
+- [nipstcfmri2022.slack.com](https://nipstcfmri2022.slack.com/)
