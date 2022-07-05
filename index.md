@@ -285,7 +285,7 @@
     ![filelist](img/filelist.png)
 
 
-- `nips-2021TC_textbook.html` の中にテキストへのリンクが掲載されています
+- `nips-2022TC_textbook.html` の中にテキストへのリンクが掲載されています
 
 - その他のフォルダは講義で使用します
 
@@ -320,8 +320,8 @@
 - データのダウンロードを行った後、ターミナルから以下をタイプしてください
 
     ```
-    cd /media/sf_share/nips-2021TC
-    bash ./set_data_nips_tc_fmri_2021.sh
+    cd /media/sf_share/nips-2022TC
+    bash ./set_data_nips_tc_fmri_2022.sh
     ```
 
 - こうすると、`spm` のフォルダの中に `Localizer` `LOOanalysis` `Manuals` というフォルダができます
@@ -341,7 +341,7 @@
 
     ![spm_batch2](img/spm_batch02.png)
 
-- `nips-2021TC_test.m` が選択されたことを確認して、DONEを選択します
+- `nips-2022TC_test.m` が選択されたことを確認して、DONEを選択します
 
     ![spm_batch3](img/spm_batch03.png)
 
