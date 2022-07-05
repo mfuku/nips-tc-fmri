@@ -276,11 +276,11 @@
 2. 更新する時: ターミナルから以下を実行してください
 
     ```
-    cd /media/sf_share/nips-2021TC
+    cd /media/sf_share/nips-2022TC
     git pull
     ```
 
-- こうすると、`/media/sf_share/nips-2021TC` の下に `spm`, `get_data.pdf`, `nips-2021TC.m`, `nips-2021TC_textbook.html`, `set_data_nips_tc_fmri_2021.sh` といったフォルダやファイルが生成されます
+- こうすると、`/media/sf_share/nips-2022TC` の下に `spm`, `get_data.pdf`, `nips-2022TC.m`, `nips-2022TC_textbook.html`, `set_data_nips_tc_fmri_2022.sh` といったフォルダやファイルが生成されます
 
     ![filelist](img/filelist.png)
 
