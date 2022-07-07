@@ -310,21 +310,15 @@
 ### 4. データの入手 (所要時間約10分)
 
 - トレーニングコースに使うデータは非常に大きいため、GitLabではなく、別にダウンロードしていただきます
-
-- 上記のテキストの入手を行った後、ファイルマネージャーで `get_data.pdf` をダブルクリックして下さい
-
-  - PDFファイルの指示に従ってデータをダウンロードして下さい。データが1GB程度あります。環境によっては時間がかかってしまうことがあるため、電源をつなぎ、パソコンがスリープしないようにしてください
-
-    ![get_data1](img/get_data01.png)
-    
+   
 - データのダウンロードを行った後、ターミナルから以下をタイプしてください
 
     ```
     cd /media/sf_share/nips-2022TC
-    bash ./set_data_nips_tc_fmri_2022.sh
+    bash ./set_data.sh
     ```
 
-- こうすると、`spm` のフォルダの中に `Localizer` `LOOanalysis` `Manuals` というフォルダができます
+- こうすると、`spm` フォルダに `Localizer` `LOOanalysis` `Manuals` が、`PracticesForAdvancedPreprocessing` フォルダに `DICOM` `Practice2_Topup` `Script_SetUpFilesForPractice1.sh` ができます
 
 
 ### 5. 確認のためのバッチスクリプトを実行 (所要時間約5分)
