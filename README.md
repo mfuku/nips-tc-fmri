@@ -319,6 +319,7 @@
     ```
 
 - こうすると、`spm` フォルダに `Localizer` `LOOanalysis` `Manuals` が、`PracticesForAdvancedPreprocessing` フォルダに `DICOM` `Practice2_Topup` `Script_SetUpFilesForPractice1.sh` ができます
+　
 
 
 ### 5. 確認のためのバッチスクリプトを実行 (所要時間約5分)
