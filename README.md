@@ -280,7 +280,7 @@
     git pull
     ```
 
-- こうすると、`/media/sf_share/nips-2022TC` の下に `spm`, `get_data.pdf`, `nips-2022TC.m`, `nips-2022TC_textbook.html`, `set_data_nips_tc_fmri_2022.sh` といったフォルダやファイルが生成されます
+- こうすると、`/media/sf_share/nips-2022TC` の下に `spm`, `nips-2022TC_test.m`, `nips-2022TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
 
     ![filelist](img/filelist.png)
 
