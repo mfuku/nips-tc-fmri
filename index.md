@@ -97,11 +97,11 @@
 
 - トレーニングコースはZoomにて開催します
 
-- Zoomは2022年7月1日現在、バージョン5.11.1になっています。こちらを入手してください
+- Zoomは2023年7月1日現在、バージョン5.15.2になっています。こちらを入手してください
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
     - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
-    - macOS(Intel Core): [https://zoom.us/client/latest/Zoom.pkg](https://zoom.us/client/latest/Zoom.pkg)
-    - macOS(Apple M1): [https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
+    - macOS(Intel Core): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg)
+    - macOS(Apple M1/M2): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
     - Zoomを起動し、サインインをクリックします
