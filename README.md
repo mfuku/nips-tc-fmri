@@ -101,7 +101,7 @@
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
     - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
     - macOS(Intel Core): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg)
-    - macOS(Apple M1): [https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
+    - macOS(Apple M1): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
     - Zoomを起動し、サインインをクリックします
