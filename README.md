@@ -89,18 +89,18 @@
   - Lin4Neuroでの受講を推奨しますが、macOS native 環境で受講したい方々のために、インストラクションを準備しました。[こちら](https://kytk.github.io/nips-web-202208/macOS_native.html)をご確認ください 
     - 本コースの受講で必要なSPMのインストールのみで結構です。なお、Native環境でのSPMの利用には、**<u>MATLABのライセンスが必要</u>** です。 
 
-  -　Zoomは画面共有でメモリを相当消費します。そのため、Zoomで受講するための別のPCもしくはタブレットをご準備ください。解析用のPCとZoom用のPCは別々で全く支障ありません
-
+  -　Zoomは画面共有でメモリを相当消費します。そのため、Zoomで受講するための別のPCもしくはタブレットをご準備ください。解析用のPCとZoom用のPCは別々で全く支障ありません。
+  
 ----
 
 ## Zoomの設定
 
 - トレーニングコースはZoomにて開催します
 
-- Zoomは2022年7月1日現在、バージョン5.11.1になっています。こちらを入手してください
+- Zoomは2023年7月1日現在、バージョン5.15.2になっています。こちらを入手してください
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
     - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
-    - macOS(Intel Core): [https://zoom.us/client/latest/Zoom.pkg](https://zoom.us/client/latest/Zoom.pkg)
+    - macOS(Intel Core): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg)
     - macOS(Apple M1): [https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
