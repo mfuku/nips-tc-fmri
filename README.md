@@ -99,11 +99,11 @@
     - macOS(Apple M1/M2): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
-    - Zoomを起動し、サインインをクリックします
+    - Zoomを起動し、ミーティングに参加をクリックします
 
     ![Zoom起動画面](img/zoom1.png)
 
-    - サインインします（**メールでお知らせしたミーティングID、パスワード**を入力）
+    - ミーティングに参加します（**メールでお知らせしたミーティングID、受講者氏名(実名)**を入力）
 
     ![Zoomサインイン](img/zoom2.png)
 
