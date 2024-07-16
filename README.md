@@ -262,16 +262,16 @@
 2. 更新する時: ターミナルから以下を実行してください
 
     ```
-    cd /media/sf_share/nips-2023TC
+    cd /media/sf_share/nips-2024TC
     git pull
     ```
 
-- こうすると、`/media/sf_share/nips-2023TC` の下に `spm`, `nips-2023TC_test.m`, `nips-2023TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
+- こうすると、`/media/sf_share/nips-2024TC` の下に `spm`, `nips-2024TC_test.m`, `nips-2024TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
 
     ![filelist](img/filelist.png)
 
 
-- `nips-2023TC_textbook.html` の中にテキストへのリンクが掲載されています
+- `nips-2024TC_textbook.html` の中にテキストへのリンクが掲載されています
 
 - その他のフォルダは講義で使用します
 
@@ -300,7 +300,7 @@
 - データのダウンロードを行った後、ターミナルから以下をタイプしてください
 
     ```
-    cd /media/sf_share/nips-2023TC
+    cd /media/sf_share/nips-2024TC
     bash ./set_data.sh
     ```
 
@@ -322,7 +322,7 @@
 
     ![spm_batch2](img/spm_batch02.png)
 
-- `nips-2023TC_test.m` が選択されたことを確認して、DONEを選択します
+- `nips-2024TC_test.m` が選択されたことを確認して、DONEを選択します
 
     ![spm_batch3](img/spm_batch03.png)
 
@@ -352,4 +352,4 @@
 
 - 準備がうまくいかない時は、メールで案内した Slack の事前準備チャンネルで問い合わせ下さい。
 
-- [nipstcfmri2023.slack.com](https://nipstcfmri2023.slack.com/)
+- [nipstcfmri2024.slack.com](https://nipstcfmri2024.slack.com/)
