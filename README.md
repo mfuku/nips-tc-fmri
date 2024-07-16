@@ -72,8 +72,8 @@
 
  - トレーニングコースでは、受講者にご自身でPCを準備して頂き、実際に操作しながら学んでいきます。PCのスペックについては、以下の **推奨条件** を参考にして下さい
 
-    - OS: Windows10,11 64bit版 または macOS 10.14.6（Mojave）- 12.0.1 (Monterey）
-    - CPU: Intel Core i7/i9、Intel Core i5（クロック周波数2.0GHz以上）、または AMD Ryzen 5以上の性能を有するもの **注意: 現在、Apple M1/M2はVirtualBoxで仮想マシンを動作できないため、Lin4Neuroは動作できません。以下をご覧ください**
+    - OS: Windows10,11 64bit版 または macOS 10.15（Catalina）以降
+    - CPU: Intel Core i7/i9、Intel Core i5（クロック周波数2.0GHz以上）、または AMD Ryzen 5以上の性能を有するもの **注意: 現在、Apple M1/M2/M3はVirtualBoxで仮想マシンを動作できないため、Lin4Neuroは動作できません。以下をご覧ください**
     - メモリ：8GB以上 (可能ならば16GB以上を推奨します)
     - ハードディスク：100GB以上の空き容量 (外付けハードディスクも可)
     - 2ボタン以上のUSBマウス (必須ではありませんが、持っていると便利です)
