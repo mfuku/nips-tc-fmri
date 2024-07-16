@@ -94,10 +94,7 @@
 
 - Zoomは2024年7月15日現在、バージョン6.1.1になっています。こちらを入手してください
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
-    - Zoom ダウンロードセンター: [https://zoom.us/ja/download]
-    - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
-    - macOS(Intel Core): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg)
-    - macOS(Apple M1/M2): [https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/5.15.2.19786/zoomusInstallerFull.pkg?archType=arm64)
+    - [Zoom ダウンロードセンター](https://zoom.us/ja/download)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
     - Zoomを起動し、ミーティングに参加をクリックします
