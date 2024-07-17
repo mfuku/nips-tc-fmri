@@ -321,13 +321,14 @@
 
     ![spm_batch1](img/spm_batch01.png)
 
-- 以下のウインドウが表示されますので、①-②の順でバッチスクリプトを読み込みます
+- 以下のウインドウが表示されますので、①-②-③の順でバッチスクリプトを読み込みます
 
-    ![spm_batch2](img/spm_batch02.png)
+    ![spm_batch02](img/spm_batch002.png)
+    ![spm_batch03](img/spm_batch003.png)
 
 - `nips-2024TC_test.m` が選択されたことを確認して、DONEを選択します
 
-    ![spm_batch3](img/spm_batch03.png)
+    ![spm_batch04](img/spm_batch004.png)
 
 - ウインドウ上部の三角がグリーンに変化するので選択します
 
