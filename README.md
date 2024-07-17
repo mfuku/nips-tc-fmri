@@ -265,7 +265,7 @@
 3. 更新する時: ターミナルから以下を実行してください
 
     ```
-    cd /media/sf_share/nips-2024TC
+    cd /media/sf_share/nips-2024tc
     git pull
     ```
 
