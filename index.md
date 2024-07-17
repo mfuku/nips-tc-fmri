@@ -268,7 +268,7 @@
     git pull
     ```
 
-- こうすると、`/media/sf_share/nips-2024TC` の下に `spm`, `nips-2024TC_test.m`, `nips-2024TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
+- こうすると、`/media/sf_share/nips-2024tc` の下に `spm`, `nips-2024TC_test.m`, `nips-2024TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
 
     ![filelist](img/filelist.png)
 
