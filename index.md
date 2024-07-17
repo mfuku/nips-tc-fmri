@@ -302,7 +302,7 @@
 - データのダウンロードを行った後、ターミナルから以下をタイプしてください
 
     ```
-    cd /media/sf_share/nips-2024TC
+    cd /media/sf_share/nips-2024tc
     bash ./set_data.sh
     ```
 
