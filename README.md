@@ -131,9 +131,9 @@
 ### ウェブブラウザでの設定
 
  - 受講者の皆様にメールで招待リンクをお知らせします。
-   **https://invite.pumble.com/XXXXXXXXXのようなリンクです**
+   ** https://invite.pumble.com/XXXXXXXXXのようなリンクです **
 
- -　Pumbleのログイン画面に進みます。"Continue With Google" をクリックしてGoogleアカウントで入っても、ご自身の独自のメールアドレスを入力してから"Contineu with email" をクリックしてもかまいません。
+ - Pumbleのログイン画面に進みます。"Continue With Google" をクリックしてGoogleアカウントで入っても、ご自身の独自のメールアドレスを入力してから"Contineu with email" をクリックしてもかまいません。
 
  　![登録1](img/Pumble01.png)
 
