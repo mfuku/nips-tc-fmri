@@ -109,7 +109,7 @@
  - [Lin4Neuroのセットアップ](https://kytk.github.io/nips-web-2025/L4N_setup.html) をご確認ください。
 
 ### macOS native でソフトウェアを準備
- - [macOSでのセットアップ](https://kytk.github.io/nips-web-2025/macOS_native.html) をご確認ください。。
+ - [macOSでのセットアップ](https://kytk.github.io/nips-web-2025/macOS_native.html) をご確認ください。("SPMコースでは不要です"と記載のある項目は、"SPMを用いたヒト脳のfMRIデータ解析入門"では使用しないソフトウエアです。本コースの受講には必要ありません。時間とディスクスペースに余裕ががあればインストールされても構いません。) 
 
   
 ----
