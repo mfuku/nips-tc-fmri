@@ -75,7 +75,7 @@
  - トレーニングコースでは、受講者にご自身でPCを準備して頂き、実際に操作しながら学んでいきます。PCのスペックについては、以下の **推奨条件** を参考にして下さい
 
     - OS: Windows10,11 64bit版 または macOS 10.15（Catalina）以降
-    - CPU: Intel Core i7/i9、Intel Core i5（クロック周波数2.0GHz以上）、または AMD Ryzen 5以上の性能を有するもの **注意: 現在、Apple M1/M2/M3はVirtualBoxで仮想マシンを動作できないため、Lin4Neuroは動作できません。以下をご覧ください**
+    - CPU: Intel Core i7/i9、Intel Core i5（クロック周波数2.0GHz以上）、または AMD Ryzen 5以上の性能を有するもの **注意: 現在、Apple M1/M2/M3/M4はVirtualBoxで仮想マシンを動作できないため、Lin4Neuroは動作できません。以下をご覧ください**
     - メモリ：8GB以上 (可能ならば16GB以上を推奨します)
     - ハードディスク：100GB以上の空き容量 (外付けハードディスクも可)
     - 2ボタン以上のUSBマウス (必須ではありませんが、持っていると便利です)
@@ -108,7 +108,7 @@
 ### Windows, Intel mac で VirtualBox経由で Lin4Neuro を使用
  - [Lin4Neuroのセットアップ](https://kytk.github.io/nips-web-2025/L4N_setup.html) をご確認ください。
 
-### macOS native でソフトウェアを準備
+### macOS native (Apple Silicon M1-M4 を含む) でソフトウェアを準備
  - [macOSでのセットアップ](https://kytk.github.io/nips-web-2025/macOS_native.html) をご確認ください。("SPMコースでは不要です"と記載のある項目は、"SPMを用いたヒト脳のfMRIデータ解析入門"では使用しないソフトウエアです。本コースの受講には必要ありません。ディスクスペースに大きな余裕があればインストールされても構いませんが、準備時間が大きく増加することをご考慮ください。) 
 
   
