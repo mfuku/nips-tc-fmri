@@ -186,7 +186,7 @@
   
 - 画面左下の脳アイコンをクリックし、脳画像解析からSPM25を選択します。
   ![SPMの起動](img/l4n_spm01.png)
-  
+
 - fMRIを選択して下さい。
   ![fMRIの起動](img/l4n_spm02.png)
   
@@ -197,6 +197,7 @@
   ![SPMの起動2](img/l4n_spm04.png)
   
 - 起動の確認が終われば、"Quit" を選択してSPMを終了します
+  
 
 ### 2. Mac native の場合
 - Mac native 環境のセットアップ時に、SPMの起動を確認しています。
