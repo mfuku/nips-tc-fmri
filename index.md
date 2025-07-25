@@ -84,11 +84,14 @@
  - ソフトウェアとデータのダウンロードで合計**30GB程度ダウンロードします**。Pocket Wi-Fiなどでは通信量にご注意下さい。**職場やご自宅のLAN環境からの作業**を強くお奨めします
 
 ## ソフトウエアの準備
+
 ### Windows, Intel mac で VirtualBox経由で Lin4Neuro を使用
 - [Lin4Neuroのセットアップ](https://kytk.github.io/nips-web-2025/L4N_setup.html) をご確認ください。
+  
 ### macOS native (Apple Silicon M1-M4 を含む) でソフトウェアを準備
 - [macOSでのセットアップ](https://kytk.github.io/nips-web-2025/macOS_native.html) をご確認ください。
 - "SPMコースでは不要です"と記載のある項目は、"SPMを用いたヒト脳のfMRIデータ解析入門"では使用しないソフトウエアです。本コースの受講には必要ありません。ディスクスペースに大きな余裕があればインストールしても構いませんが、準備時間が大きく増加することをご考慮ください。)
+  
 
   
 ----
