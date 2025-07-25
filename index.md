@@ -185,16 +185,16 @@
 - Lin4Neuroにログインします
   
 - 画面左下の脳アイコンをクリックし、脳画像解析からSPM25を選択します。
-    ![SPMの起動](img/l4n_spm01.png)
+  ![SPMの起動](img/l4n_spm01.png)
   
 - fMRIを選択して下さい。
-   ![fMRIの起動](img/l4n_spm02.png)
+  ![fMRIの起動](img/l4n_spm02.png)
   
 - 以下のような画面が出ます。SPMを使用中は、このターミナルを閉じないで下さい
-    ![SPMの起動](img/l4n_spm03.png)
+  ![SPMの起動](img/l4n_spm03.png)
   
 - 少し時間がかかりますが、以下のようなウインドウが出れば、SPMがきちんと動作することを確認できます
-    ![SPMの起動2](img/l4n_spm04.png)
+  ![SPMの起動2](img/l4n_spm04.png)
   
 - 起動の確認が終われば、"Quit" を選択してSPMを終了します
 
