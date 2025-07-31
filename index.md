@@ -244,7 +244,7 @@
 
 - こうすると、ホームディレクトリ`/home/brain` の下に `nips-tc`フォルダが作成され、その下に `nips-2025tc_test.m`, `nips-2025tc_textbook.html`, `set_data.sh` といったファイルが生成されます
 
-    ![filelist](img/filelist.png)
+    ![filelist](img/filelist1.png)
 
 
 - `nips-2025tc_textbook.html` および `nips-2025tc_textbook.pdf` の中にテキストへのリンクが掲載されています
