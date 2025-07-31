@@ -218,29 +218,34 @@
 
 - 本トレーニングコースで使用するテキストは、GitLabというデータ共有サービスを通して配布します。ここで配布されるものは、トレーニングコースの直前まで更新される可能性がありますので、こまめに（特に参加直前に）アップデートするようにして下さい
 
+### 2a. Lin4Neuro の場合 (Win/Intel macでLin4Neuroを設定した方)
+
 1. 初めてセットアップする時: ターミナル (Lin4Neuro では、左下のスタートアイコンの隣にあるアイコンから起動できます) から以下を実行して下さい
 
     ![ターミナル起動](img/terminal.png)
 
     ```
-    cd /media/sf_share
-    メールで示されているコマンドをここにタイプします
+    cd
+    mkdir nips-tc
+    cd nips-tc
+    Pumble の general channel で案内したコマンドをここにタイプします
     (セキュリティの都合でここには記しません)
     ```
 
 3. 更新する時: ターミナルから以下を実行してください
 
     ```
-    cd /media/sf_share/nips-2024tc
+    cd
+    cd nips-tc/nips-2025
     git pull
     ```
 
-- こうすると、`/media/sf_share/nips-2024tc` の下に `spm`, `nips-2024TC_test.m`, `nips-2024TC_textbook.html`, `set_data.sh` といったフォルダやファイルが生成されます
+- こうすると、ホームディレクトリ`/home/brain` の下に `nips-tc`フォルダが作成され、その下に `nips-2025tc_test.m`, `nips-2025tc_textbook.html`, `set_data.sh` といったファイルが生成されます
 
     ![filelist](img/filelist.png)
 
 
-- `nips-2024TC_textbook.html` の中にテキストへのリンクが掲載されています
+- `nips-2025tc_textbook.html` および `nips-2025tc_textbook.pdf` の中にテキストへのリンクが掲載されています
 
 - その他のフォルダは講義で使用します
 
