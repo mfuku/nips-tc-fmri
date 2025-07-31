@@ -242,7 +242,7 @@
     git pull
     ```
 
-- こうすると、ホームディレクトリ`/home/brain` の下に `nips-tc`フォルダが作成され、その下に `nips-2025tc_test.m`, `nips-2025tc_textbook.html`, `set_data.sh` といったファイルが生成されます
+- こうすると、ホームディレクトリ`/home/brain` の下に`nips-tc`フォルダが、そのさらに下に`nips-2025`フォルダが作成され、 `nips-2025tc_test.m`, `nips-2025tc_textbook.html`, `set_data.sh` といったファイルが生成されます
 
     ![filelist](img/filelist1.png)
 
