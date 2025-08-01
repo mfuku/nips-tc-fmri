@@ -306,20 +306,30 @@
 
 
 
-### 3. データの入手 (所要時間約10分)
+## 3. データの入手 (所要時間約15分)
 
 - トレーニングコースに使うデータは非常に大きいため、GitLabではなく、別にダウンロードしていただきます
    
-- データのダウンロードを行った後、ターミナルから以下をタイプしてください
+- テキストのダウンロードを行った後、ターミナルから以下をタイプしてください
 
     ```
-    cd /media/sf_share/nips-2024tc
+    cd
+    cd nips-tc/nips-2025
     bash ./set_data.sh
     ```
 
-- こうすると、`spm` フォルダに `Localizer` `LOOanalysis` `Manuals` が、`PracticesForAdvancedPreprocessing` フォルダに `DICOM` `Practice2_Topup` `Script_SetUpFilesForPractice1.sh` ができます
-　
+- すると、データ利用に関して確認を求められます。`yes` と入力しリターンすると、ダウンロードが開始されます
+- データは、全部で約8GBありますので、ネットワーク環境によって必要な時間が異なります
 
+![set_data1](img/set_data1.png)
+
+- データが全てダウンロードされると、**データの準備が全て整いました** と表示されます
+
+![set_data1](img/set_data2.png)
+ 
+- `nips-2025` フォルダの中に `s02` `s02_prebaked` `Group` `Batch_GUI` `WBdata` フォルダができます
+　
+![set_data1](img/set_data3.png)
 
 ### 4. 確認のためのバッチスクリプトを実行 (所要時間約5分)
 
