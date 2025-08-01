@@ -269,7 +269,7 @@
     git config --global --unset https.proxy
     ```
 
-### 2b. Mac natibe の場合
+### 2b. Mac native の場合
 
 1. 初めてセットアップする時: ターミナルを開き、以下のコマンドを入力します。
 
