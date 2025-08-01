@@ -228,7 +228,7 @@
     cd
     mkdir nips-tc
     cd nips-tc
-    Pumble の general channel で案内したコマンドをここにタイプします
+    **Pumble の general channel で案内したコマンドをここにタイプします**
     (セキュリティの都合でここには記しません)
     ```
 
