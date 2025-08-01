@@ -283,7 +283,7 @@
     (セキュリティの都合でここには記しません)
     ```
 
-    ![ターミナルgit](img/terminal2.png)
+    ![ターミナルgit](img/terminal-mac2.png)
 
 3. 更新する時: ターミナルから以下を実行してください
 
@@ -295,7 +295,7 @@
 
 - こうすると、ホームディレクトリ`/Users/XXXX(自身のアカウント名)` の下に`nips-tc`フォルダが、そのさらに下に`nips-2025`フォルダが作成され、 `nips-2025tc_test.m`, `nips-2025tc_textbook.html`, `set_data.sh` といったファイルが生成されます
 
-    ![filelist](img/filelist1.png)
+    ![filelist](img/filelist1-mac.png)
 
 
 - `nips-2025tc_textbook.html` および `nips-2025tc_textbook.pdf` の中にテキストへのリンクが掲載されています
