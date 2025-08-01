@@ -306,7 +306,7 @@
 
 
 
-## 3. データの入手 (所要時間約15分)
+## 3. データの入手 (所要時間約15分, Lin4Neuro, Mac native 共通)
 
 - トレーニングコースに使うデータは非常に大きいため、GitLabではなく、別にダウンロードしていただきます
    
@@ -319,7 +319,7 @@
     ```
 
 - すると、データ利用に関して確認を求められます。`yes` と入力しリターンすると、ダウンロードが開始されます
-- データは、全部で約8GBありますので、ネットワーク環境によって必要な時間が異なります
+- データは、全部で約8GBありますので、ネットワーク環境によって必要な時間が異なります(展開後は、約24GBとなります)
 
 ![set_data1](img/set_data1.png)
 
@@ -327,36 +327,38 @@
 
 ![set_data1](img/set_data2.png)
  
-- `nips-2025` フォルダの中に `s02` `s02_prebaked` `Group` `Batch_GUI` `WBdata` フォルダができます
+- `nips-2025` フォルダの中に `archive` `s02` `s02_prebaked` `Group` `Batch_GUI` `WBdata` フォルダができます
 　
 ![set_data1](img/set_data3.png)
 
-### 4. 確認のためのバッチスクリプトを実行 (所要時間約5分)
+## 4. 確認のためのバッチスクリプトを実行 (所要時間約5分, Lin4Neuro, Mac native 共通)
 
 - 環境が整っているかを確認するために、バッチスクリプトを実行していただきます
 
-- ターミナルからSPMを起動してください
+- SPMを起動してください
 
-- SPM12 MenuウインドウからBatchを選択してください
+- SPM25 MenuウインドウからBatchを選択してください
 
     ![spm_batch1](img/spm_batch01.png)
 
-- 以下のウインドウが表示されますので、①-②-③の順でバッチスクリプトを読み込みます
+- 以下のウインドウが表示されますので、次の手順でバッチスクリプトを読み込みます
 
-    ![spm_batch02](img/spm_batch002.png)
-    ![spm_batch03](img/spm_batch003.png)
+    ![spm_batch02](img/spm_batch02.png)
+    ![spm_batch03](img/spm_batch03.png)
+    ![spm_batch04](img/spm_batch04.png)
+    ![spm_batch05](img/spm_batch05.png)
 
-- `nips-2024TC_test.m` が選択されたことを確認して、DONEを選択します
+- `nips-2025tc_test.m` が選択されたことを確認して、DONEを選択します
 
-    ![spm_batch04](img/spm_batch004.png)
+    ![spm_batch06](img/spm_batch06.png)
 
 - ウインドウ上部の三角がグリーンに変化するので選択します
 
-    ![spm_batch5](img/spm_batch05.png)
+    ![spm_batch7](img/spm_batch07.png)
 
 - MRIの断面画像が表示されます
 
-    ![spm_batch4](img/spm_batch04.png)
+    ![spm_batch8](img/spm_batch08.png)
 
 - 画像が正しく表示された方は、準備がすべて整ったことになります
 
@@ -364,11 +366,6 @@
 
 - ここまでたどりつけない場合は、事前サポートが必要になります。今回、Zoomのため、トレーニングコース当日の個別サポートが提供できませんので、このプロセスは必須とさせていただきます
 
-
-### 5. Lin4Neuro への Google chrome のインストール (所要時間5分)
-
-- Lin4NeuroにGoogle Chromeをインストールしたい方向けに、説明動画を準備しました。[こちら](https://vimeo.com/487737208)からご確認ください
- 
 
 ---
 
