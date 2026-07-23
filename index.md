@@ -131,6 +131,7 @@
    **`https://invite.pumble.com/XXXXXXXXX`**のようなリンクです。
 
  - Pumbleのログイン画面に進みます。"Continue With Google" をクリックしてGoogleアカウントで入っても、ご自身の独自のメールアドレスを入力してから"Contineu with email" をクリックしてもかまいません。
+ - 画像は、"生理研 TC fMRI 2025" となっていますが、"2026"と読み替えてください。
  　![登録1](img/Pumble01.png)
 
  - そうするとメールアドレスにコードが届きますので、コードを入力します。
