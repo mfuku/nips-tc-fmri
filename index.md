@@ -369,4 +369,4 @@
 
 - 準備がうまくいかない時は、メールで案内した Pumble 生理研 TC fMRI 2025 の "01_事前準備" チャンネルで問い合わせ下さい。
 
-- [生理研 TC fMRI 2025](https://app.pumble.com/workspace/688089c58184dd7952ad2f57/6880d0be786c3e1240b84fc0)
+- [生理研 TC fMRI 2026](https://app.pumble.com/workspace/6a623aa4451b1d6587b59e71/6a623aa417eacf6c3d141099)
