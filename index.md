@@ -181,14 +181,20 @@
  - macOS native で外付けSSDを使用してデータをダウンロードする場合
  
 ### 5-1. 各環境での準備
-
 ----
-
-
-
-
-
-
+### 5-1-1. Windows で Docker Desktop を使用する場合
+ - **【ポイント】データのダウンロードは Docker の外で行います。今は Docker Desktop は使用しません。**
+### WSL の準備
+ - 最初に、　02_1_Windows_WSL_Ubuntu のページから、 WSL ubuntu のセットアップを行ってください。
+### WSL の起動およびリポジトリのダウンロード
+ - Windows の Powershell から WSL を起動します。
+    ```
+    wsl -d ubuntu
+    ```
+ - 外付けSSDに移動します。Dドライブならば、以下のようになります。自分のドライブを確認して、Eならば /mnt/e/share としてください。
+    ```
+    cd /mnt/d/share/nips/nips-2026tc
+    ```
 
 ----
 ----
