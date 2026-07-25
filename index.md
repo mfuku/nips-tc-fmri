@@ -176,9 +176,9 @@
 
 以下の3パターンで解説しますが、いずれも、外付けSSDにデータをダウンロードします。
 
- -　Windows で Docker Desktop を使用してデータをダウンロードする場合
- -　macOSでDocker Desktopを使用してデータをダウンロードする場合
- -　macOS native で外付けSSDを使用してデータをダウンロードする場合
+ - Windows で Docker Desktop を使用してデータをダウンロードする場合
+ - macOSでDocker Desktopを使用してデータをダウンロードする場合
+ - macOS native で外付けSSDを使用してデータをダウンロードする場合
 
 
 
