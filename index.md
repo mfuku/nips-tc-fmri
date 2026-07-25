@@ -179,8 +179,8 @@
  - Windows で Docker Desktop を使用してデータをダウンロードする場合
  - macOSでDocker Desktopを使用してデータをダウンロードする場合
  - macOS native で外付けSSDを使用してデータをダウンロードする場合
-
-
+ 
+### 5-1. 各環境での準備
 
 ----
 
