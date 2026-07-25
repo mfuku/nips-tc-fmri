@@ -195,6 +195,33 @@
     ```
     cd /mnt/d/share/nips/nips-2026tc
     ```
+ - abis-2026 リポジトリをアップデートします。
+    ```
+    git pull
+    ```
+ - この後、「データの入手」に進んでください。
+
+### 5-1-2. MacOSでDocker Desktopを使用する場合
+ - **【ポイント】データのダウンロードは Docker の外で行います。**
+ - MacOS でDocker Desktopを使う方は、 **Docker Desktopからでなく、MacOSのターミナルから** 以下のようにしてください。
+    ```
+    cd /Volumes/自身のSSD/share/abis
+    ```
+
+ - ```ls``` で nips-2026 がある方は、以下で 最新化します
+    ```
+    cd abis-2026
+    git pull
+    ```
+
+ - nips-2026 がない方は、ここで、受講者に送られたメールを確認していただき ```git clone https://oauth2``` から始まる一文をコピペしてください。
+    ```
+    git clone https://oauth2:(セキュリティのために省略)
+    ```
+
+### 5-1-3. macOS native でデータをダウンロードする場合
+
+
 
 ----
 ----
