@@ -184,9 +184,9 @@
 ----
 ### 5-1-1. Windows で Docker Desktop を使用する場合
  - **【ポイント】データのダウンロードは Docker の外で行います。今は Docker Desktop は使用しません。**
-### WSL の準備
+#### WSL の準備
  - 最初に、　[Windows_WSL_Ubuntu](https://github.com/mfuku/nips-tc-fmri/wiki/Windows_WSL_Ubuntu) のページから、 WSL ubuntu のセットアップを行ってください。
-### WSL の起動およびリポジトリのダウンロード
+#### WSL の起動およびリポジトリのダウンロード
  - Windows の Powershell から WSL を起動します。
     ```
     wsl -d ubuntu
