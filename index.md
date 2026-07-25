@@ -226,11 +226,11 @@
     cd /Volumes/自身のSSD/
     mkdir -p abis
     ```
- - macOS native の場合 /Volumes/自身のSSD/abis/abis-2026 であることを想定します。
+ - macOS native の場合 /Volumes/自身のSSD/abis/nips-2026 であることを想定します。
 
- - ```ls``` で abis-2026 がある方は、以下で 最新化します
+ - ```ls``` で nips-2026 がある方は、以下で 最新化します
     ```
-    cd abis-2026
+    cd nips-2026
     git pull
     ```
  - nips-2026 がない方は、ここで、受講者に送られたメールを確認していただき ```git clone https://oauth2``` から始まる一文をコピペしてください。
