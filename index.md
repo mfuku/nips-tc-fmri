@@ -195,7 +195,7 @@
     ```
     cd /mnt/d/share
     mkdir -p nips
-    cd /mnt/d/share/nips
+    cd nips
     ```
  - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
@@ -203,7 +203,7 @@
     ```
  - ```ls``` で nips-2026tc がある方は、以下で 最新化します。
     ```
-    cd /mnt/d/share/nips/nips-2026tc
+    cd nips-2026tc
     git pull
     ```
  - この後、「データの入手」に進んでください。
