@@ -209,21 +209,21 @@
  - この後、「データの入手」に進んでください。
 
 ### 5-1-2. macOSでDocker Desktopを使用する場合
- - **【ポイント】データのダウンロードは Docker の外で行います。**
+ - **【ポイント】データのダウンロードは Docker の外で行います。今は Docker Desktop は使用しません。**
  - MacOS でDocker Desktopを使う方は、 **Docker Desktopからでなく、macOSのターミナルから** 以下のようにしてください。
     ```
-    cd /Volumes/自身のSSD/share/abis
+    cd /Volumes/自身のSSD/share
+    mkdir -p nips
+    cd nips
     ```
-
- - ```ls``` で nips-2026 がある方は、以下で 最新化します
+ - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
-    cd nips-2026
+    git clone https://gitlab.com/(セキュリティのために省略)
+    ```
+ - ```ls``` で nips-2026tc がある方は、以下で 最新化します。
+    ```
+    cd nips-2026tc
     git pull
-    ```
-
- - nips-2026 がない方は、ここで、受講者に送られたメールを確認していただき ```git clone https://oauth2``` から始まる一文をコピペしてください。
-    ```
-    git clone https://oauth2:(セキュリティのために省略)
     ```
  - この後、「データの入手」に進んでください。
 
@@ -231,19 +231,18 @@
  - macOS nativeで受講される方は、ターミナルから以下のようにしてください。
     ```
     cd /Volumes/自身のSSD/
-    mkdir -p abis
+    mkdir -p nips
+    cd nips
     ```
- - macOS native の場合 /Volumes/自身のSSD/abis/nips-2026 であることを想定します。
-
- - ```ls``` で nips-2026 がある方は、以下で 最新化します
+ - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
-    cd nips-2026
+    git clone https://gitlab.com/(セキュリティのために省略)
+    ```
+ - ```ls``` で nips-2026tc がある方は、以下で 最新化します。
+    ```
+    cd nips-2026tc
     git pull
     ```
- - nips-2026 がない方は、ここで、受講者に送られたメールを確認していただき ```git clone https://oauth2``` から始まる一文をコピペしてください。
-    ```
-    git clone https://oauth2:(セキュリティのために省略)
-     ```
  - この後、「データの入手」に進んでください。
 
 ### 5-2. データの入手（共通）
