@@ -193,10 +193,17 @@
     ```
  - 外付けSSDに移動します。Dドライブならば、以下のようになります。自分のドライブを確認して、Eドライブならば ```/mnt/e/share``` としてください。
     ```
+    cd /mnt/d/share
+    mkdir -p nips
+    cd /mnt/d/share/nips
+    ```
+ - ```ls``` で nips-2026tc がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
+    ```
+    git clone https://gitlab.com/(セキュリティのために省略)
+    ```
+ - ```ls``` で nips-2026tc がある方は、以下で 最新化します。
+    ```
     cd /mnt/d/share/nips/nips-2026tc
-    ```
- - abis-2026 リポジトリをアップデートします。
-    ```
     git pull
     ```
  - この後、「データの入手」に進んでください。
