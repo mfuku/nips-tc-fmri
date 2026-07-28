@@ -346,19 +346,19 @@
 
    ![spm_batch1](img/spm_batch01.png)
 
-- 以下のウインドウが表示されますので、次の手順でバッチスクリプトを読み込みます
+**以下のウインドウが表示されますので、次の手順でバッチスクリプトを読み込みます**
 
    ![spm_batch02](img/spm_batch02.png)
 
-- `nips-2026tc_test.m` を選択
+**`nips-2026tc_test.m` を選択**
 
    ![spm_batch05](img/docker-mac-8.png)
 
-- `nips-2026tc_test.m` が選択されたことを確認して、DONEを選択します
+**`nips-2026tc_test.m` が選択されたことを確認して、DONEを選択します**
 
    ![spm_batch06](img/docker-mac-9.png)
 
-- ウインドウ上部の三角がグリーンに変化するので選択します
+**ウインドウ上部の三角がグリーンに変化するので選択します**
 
    ![spm_batch7](img/spm_batch07.png)
 
