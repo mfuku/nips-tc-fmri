@@ -305,7 +305,7 @@
 
 ### 5-3-1. コンテナの起動
  - Docker Desktop からLin4Neuroのコンテナを起動します。
- - コンテナイメージ横の ▷ をクリックします（kytk/nips-2026^fmri:latest）。
+ - コンテナイメージ横の ▷ をクリックします（kytk/nips-2026-fmri:latest）。
  ![start_docker1](img/docker-mac-1.svg)
 
 ### 5-3-2. Webブラウザから Lin4neuro にアクセス
