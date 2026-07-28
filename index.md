@@ -349,6 +349,9 @@
 - 以下のウインドウが表示されますので、次の手順でバッチスクリプトを読み込みます
 
    ![spm_batch02](img/spm_batch02.png)
+
+- `nips-2026tc_test.m` を選択
+
    ![spm_batch05](img/docker-mac-8.png)
 
 - `nips-2026tc_test.m` が選択されたことを確認して、DONEを選択します
