@@ -303,22 +303,22 @@
 ### 5-3. 環境確認のためのバッチスクリプトの実行（共通）
 ----
 
-### 5-3-1. コンテナの起動
+### コンテナの起動
  - Docker Desktop からLin4Neuroのコンテナを起動します。
  - コンテナイメージ横の ▷ をクリックします（kytk/nips-2026-fmri:latest）。
  ![start_docker1](img/docker-mac-1.svg)
 
-### 5-3-2. Webブラウザから Lin4neuro にアクセス
+### Webブラウザから Lin4neuro にアクセス
  - 起動したコンテナには、ウェブブラウザからアクセスできます。
  - 普段お使いのウェブブラウザを起動し、アドレスに以下を入力します。
   - localhost:6080/vnc.html
  - 画面左側の歯車アイコンをクリックし、 Scaling Mode を "Local Scaling" に変更します。
  ![start_docker2](img/docker-mac-2.svg)
 
-### 5-3-3. "Connect" をクリックすると、パスワードを聞かれます。パスワードは **lin4neuro** となります。
+### "Connect" をクリックすると、パスワードを聞かれます。パスワードは **lin4neuro** となります。
  ![start_docker3](img/docker-mac-3.svg)
  
-### 5-3-4. 起動した Lin4Neuro の画面は以下のようになります。
+### 起動した Lin4Neuro の画面は以下のようになります。
  ![start_docker4](img/docker-mac-4.svg)
 
 
