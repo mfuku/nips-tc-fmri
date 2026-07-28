@@ -323,7 +323,9 @@
 
 **ターミナルを起動し、外付けディスクにGUIでアクセスできるためのスクリプトの実行。**
  - 端末が起動したら、以下のコマンドをタイプします。
- ``` auto_clean_metadata.sh ```
+ ```
+ auto_clean_metadata.sh
+ ```
  ![start_docker4](img/docker-mac-5.svg)
 
 
