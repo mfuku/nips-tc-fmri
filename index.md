@@ -197,7 +197,7 @@
     mkdir -p nips
     cd nips
     ```
- - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
+ - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、**Pumble の general channel** を確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
     git clone https://gitlab.com/(セキュリティのために省略)
     ```
@@ -216,7 +216,7 @@
     mkdir -p nips
     cd nips
     ```
- - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
+ - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、**Pumble の general channel** を確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
     git clone https://gitlab.com/(セキュリティのために省略)
     ```
@@ -234,7 +234,7 @@
     mkdir -p nips
     cd nips
     ```
- - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、受講者に送られたメールを確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
+ - ```ls``` で ```nips-2026tc``` がない方は、```nips-2026tc``` リポジトリをダウンロードします。ここで、**Pumble の general channel** を確認していただき、 ```git clone https://gitlab.com/``` から始まる一文をコピペしてください。
     ```
     git clone https://gitlab.com/(セキュリティのために省略)
     ```
