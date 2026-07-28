@@ -326,7 +326,15 @@
    ```
    auto_clean_metadata.sh
    ```
- ![start_docker4](img/docker-mac-5.svg)
+ ![start_docker5](img/docker-mac-5.svg)
+
+**SPMを起動**
+ - 端末に以下のコマンドをタイプします。
+   ```
+   cd share/nips/nips-2026tc
+   spm25
+   ```
+ ![start_docker6](img/docker-mac-6.png)
 
 
 
