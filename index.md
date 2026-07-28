@@ -344,26 +344,26 @@
 
 **SPM25 MenuウインドウからBatchを選択してください**
 
-    ![spm_batch1](img/spm_batch01.png)
+   ![spm_batch1](img/spm_batch01.png)
 
 - 以下のウインドウが表示されますので、次の手順でバッチスクリプトを読み込みます
 
-    ![spm_batch02](img/spm_batch02.png)
-    ![spm_batch03](img/spm_batch03.png)
-    ![spm_batch04](img/spm_batch04.png)
-    ![spm_batch05](img/spm_batch05.png)
+   ![spm_batch02](img/spm_batch02.png)
+   ![spm_batch03](img/spm_batch03.png)
+   ![spm_batch04](img/spm_batch04.png)
+   ![spm_batch05](img/spm_batch05.png)
 
 - `nips-2026tc_test.m` が選択されたことを確認して、DONEを選択します
 
-    ![spm_batch06](img/spm_batch06.png)
+   ![spm_batch06](img/spm_batch06.png)
 
 - ウインドウ上部の三角がグリーンに変化するので選択します
 
-    ![spm_batch7](img/spm_batch07.png)
+   ![spm_batch7](img/spm_batch07.png)
 
 - MRIの断面画像が表示されます
 
-    ![spm_batch8](img/spm_batch08.png)
+   ![spm_batch8](img/spm_batch08.png)
 
 - 画像が正しく表示された方は、準備がすべて整ったことになります
 
