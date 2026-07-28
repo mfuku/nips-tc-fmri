@@ -321,6 +321,12 @@
 **起動した Lin4Neuro の画面は以下のようになります。**
  ![start_docker4](img/docker-mac-4.svg)
 
+**ターミナルを起動し、外付けディスクにGUIでアクセスできるためのスクリプトの実行。**
+ - 端末が起動したら、以下のコマンドをタイプします。
+ ``` auto_clean_metadata.sh ```
+ ![start_docker4](img/docker-mac-5.svg)
+
+
 
 ----
 ### 5-4. データを更新する時（共通）
