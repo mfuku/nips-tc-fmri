@@ -335,9 +335,11 @@
    spm25
    ```
  ![start_docker6](img/docker-mac-6.png)
-
+ 
+ 
 **fMRIモジュールを選択**
-    ![start_docker7](img/docker-mac-7.png)
+
+  ![start_docker7](img/docker-mac-7.png)
 
 
 
